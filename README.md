@@ -43,10 +43,11 @@ Me dedico a dar vida a las ideas mediante código. Mi enfoque es crear interface
 
 ### 📫 Hablemos
 <p align="left">
-<a href="https://www.linkedin.com/in/davidcortesa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DavidCortesA" /></a>
-<a href="mailto:david.cortes.ayala@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="DavidCortesA" /></a>
+  <a href="https://www.linkedin.com/in/davidcortesa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DavidCortesA" /></a>
+  <a href="mailto:david.cortes.ayala@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="DavidCortesA" /></a>
+  <a href="https://www.instagram.com/davidcortesa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="DavidCortesA" /></a>
 </p>
 
 <p align="right">
-  <i>"Hacer que lo complejo parezca simple es el verdadero trabajo del Front-End."</i> 💻✨
+  <i>"El mejor ingeniero de todos los tiempos es Dios."</i> 💻✨
 </p>
